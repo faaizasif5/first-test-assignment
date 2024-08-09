@@ -49,7 +49,6 @@ const CustomSelect = () => {
       <Menu.Divider className="menu-divider-2" />
       <Menu.Item key="button">
         <Button
-          type="primary"
           className="menu-item-content-2"
           onClick={handleDoneClick}
         >

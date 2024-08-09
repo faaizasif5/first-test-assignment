@@ -52,8 +52,8 @@
   color: black;
   margin-bottom: 10px;
 }
-.menu-item-content-2:hover {
-  background-color: #FFCE22;
-  border-color: #FFCE22;
-  color: black;
+.ant-btn.menu-item-content-2:hover {
+  background-color: #FFCE22 !important;
+  border-color: #FFCE22 !important;
+  color: black !important;
 }
